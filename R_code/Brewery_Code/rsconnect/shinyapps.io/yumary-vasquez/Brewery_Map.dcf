@@ -1,0 +1,14 @@
+name: Brewery_Map
+title: Brewery_Map
+username:
+account: yumary-vasquez
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6448126
+bundleId: 5986928
+url: https://yumary-vasquez.shinyapps.io/Brewery_Map/
+when: 1654634128.18832
+lastSyncTime: 1654634128.18835
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: beer-icon-png-12.jpg.png
